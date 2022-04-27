@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar-brand {
+	font-family: 'Lora', serif;
+	font-weight: bolder;
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+nav {
+	background-image: linear-gradient(to right, #68a3db, #e77878);
+}
+
+.nav-link {
+	font-family: 'Lora', serif;
+	font-weight: bolder;
+}
+
+#home {
+	background-image: linear-gradient(to right, #68a3db, #e77878);
+	font-family: 'Lora', serif;
+}
+
+#certs {
+	background-color: #68a3db;
+	font-family: 'Lora', serif;
+}
+
+#certs h2 {
+	background-color: #e77878;
+}
+
+#tools {
+	background-color: #e77878;
+	font-family: 'Lora', serif;
+}
+
+#tools h2 {
+	background-color: #68a3db;
+}
+
+#contact {
+	background-image: linear-gradient(to right, #68a3db, #e77878);
+	font-family: 'Lora', serif;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+
+/*.fa:hover {
+	opacity: 0.7;
+}*/
+
+footer {
+	background-image: linear-gradient(to right, #68a3db, #e77878);
+	font-family: 'Lora', serif;
+	font-size: 15px;
+}
